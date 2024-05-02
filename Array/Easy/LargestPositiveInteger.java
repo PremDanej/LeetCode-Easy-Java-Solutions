@@ -9,7 +9,7 @@ class Solution {
                 else unique.add(item);
             }
         }
-        // System.gc();
+        // System.gc(); // calling garbage collector.
         return max;
     }
 }
