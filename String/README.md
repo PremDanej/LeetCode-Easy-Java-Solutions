@@ -11,4 +11,4 @@
 
 | Index | Ques. No.                                                        | Question                                                     |
 |-------|------------------------------------------------------------------|--------------------------------------------------------------|
-| 1     | [`#165`](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](Medium/CompareVersionNumbers.java) |
+| 1     | [`#165`](https://leetcode.com/problems/compare-version-numbers/) | [Compare the Version Numbers](Medium/CompareVersionNumbers.java) |
